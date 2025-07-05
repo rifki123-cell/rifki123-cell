@@ -17,7 +17,7 @@
 - 🔭 Currently working on **Kasir Web App** & **Arduino Smart Sorter**
 - 🌱 Diving deep into **Firebase, ExpressJS, and MySQL Optimization**
 - 💬 Ask me about **React, PHP, Tailwind, Firebase, or Arduino**
-- 📫 Reach me at: **rifki.dev.contact@gmail.com**
+- 📫 Reach me at: **rifkiadityanugroho15@gmail.com**
 - ⚡ Fun fact: I love animating web interfaces just for fun 😁
 
 ---
@@ -77,13 +77,13 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:rifki.dev.contact@gmail.com">
+  <a href="mailto:rifkiadityanugroho15@gmail.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/your-instagram">
+  <a href="https://instagram.com/@adty.zz">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
