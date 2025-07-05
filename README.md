@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **a Kasir Web App & Arduino Smart Sorter**
 - 🌱 I’m learning more about **Firebase, MySQL Optimization, Express.js**
 - 💬 Ask me about **ReactJS, PHP, Tailwind, Arduino, or IoT Projects**
-- 📫 How to reach me: **rifki.dev.contact@gmail.com**
+- 📫 How to reach me: **rifkiadityanugroho15@gmail.com**
 - ⚡ Fun fact: I enjoy making animations and building projects from scratch!
 
 ---
