@@ -45,11 +45,22 @@
 
 ---
 
-### 🌍 My GitHub Activity Globe
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/rifki123-cell/rifki123-cell/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/rifki123-cell/github-snake/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+### 🌍 GitHub Activity Globe *(optional section)*
+
+<!-- Uncomment below if kamu pakai Globe di repo lain -->
+<!--
+<p align="center">
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+-->
 
 ---
 
@@ -66,9 +77,15 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:rifki.dev.contact@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:rifki.dev.contact@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/your-instagram">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -88,10 +105,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif" width="200" alt="Code loop GIF" />
 </p>
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/rifki123-cell/github-snake/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
