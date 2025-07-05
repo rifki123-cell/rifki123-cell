@@ -56,10 +56,10 @@
 
 ---
 
-### 🌍 GitHub Activity Globe (Animated Snake Globe)
+### 🌍 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github.com/rifki123-cell/rifki123-cell/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifki123-cell&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
