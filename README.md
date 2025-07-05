@@ -88,3 +88,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif" width="200" alt="Code loop GIF" />
 </p>
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/rifki123-cell/github-snake/blob/output/dist/github-contribution-grid-snake.svg" />
+</p>
