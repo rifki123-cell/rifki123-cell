@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rifki</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Hi%20I'm%20Rifki!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h3 align="center">🚀 Fullstack Developer | IoT Enthusiast | Clean Code Lover</h3>
 
 <p align="center">
@@ -11,9 +14,9 @@
 
 ---
 
-- 🔭 I’m currently working on **Kasir Web App & Arduino Smart Sorter**
-- 🌱 Currently diving deep into **Firebase, ExpressJS, MySQL Optimization**
-- 💬 Ask me about **React, PHP, Tailwind, Arduino, or Firebase**
+- 🔭 Currently working on **Kasir Web App** & **Arduino Smart Sorter**
+- 🌱 Diving deep into **Firebase, ExpressJS, and MySQL Optimization**
+- 💬 Ask me about **React, PHP, Tailwind, Firebase, or Arduino**
 - 📫 Reach me at: **rifki.dev.contact@gmail.com**
 - ⚡ Fun fact: I love animating web interfaces just for fun 😁
 
@@ -53,7 +56,15 @@
 
 ---
 
-### 📂 Featured Projects
+### 🌍 GitHub Activity Globe
+
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/graph.png?raw=true" />
+</p>
+
+---
+
+### 🎯 Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -63,7 +74,7 @@
 
 ---
 
-### 📫 Let's Connect!
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:rifki.dev.contact@gmail.com">
@@ -87,7 +98,7 @@
 
 ---
 
-### 🧠 Quote of the Day
+### 💬 Quote of the Day
 
 > “First, solve the problem. Then, write the code.” — John Johnson
 
