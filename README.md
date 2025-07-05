@@ -92,5 +92,6 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/rifki123-cell/github-snake/blob/output/dist/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/rifki123-cell/github-snake/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
