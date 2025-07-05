@@ -12,6 +12,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=React+Dev+%7C+PHP+MySQL+Master+%7C+Arduino+Project+Maker;Love+Clean+UI%2C+Functional+UX+%26+Modular+Code" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Dark%20Mode-Supported-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ---
 
 - 🔭 Currently working on **Kasir Web App** & **Arduino Smart Sorter**
@@ -74,6 +78,14 @@
 
 ---
 
+### 🧠 Fun Facts
+
+- 🐍 Pernah bikin penyortir buah otomatis (Arduino + TCS3200 + LoadCell)
+- 🌍 Bisa deploy app ke GitHub Pages, Vercel, atau Netlify
+- 💡 Suka UI animasi & micro-interaction di web frontend
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -83,7 +95,7 @@
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/@adty.zz">
+  <a href="https://instagram.com/adty.zz">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -104,4 +116,11 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif" width="200" alt="Code loop GIF" />
+</p>
+
+---
+
+<p align="center">Made with ❤️ by Rifki • 2025</p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/rifki123-cell?label=Follow%20me&style=social" />
 </p>
