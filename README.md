@@ -43,7 +43,7 @@
 
 ### 📫 Let's Connect!
 - 💼 LinkedIn: [linkedin.com/in/rifki123](#)
-- 📷 Instagram: [@rifki.dev](#)
+- 📷 Instagram: [@adty.zz](#)
 - 🌐 Portfolio Website: [rifki123.dev](#)
 
 ---
