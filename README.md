@@ -12,7 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=React+Dev+%7C+PHP+MySQL+Master+%7C+Arduino+Project+Maker;Love+Clean+UI%2C+Functional+UX+%26+Modular+Code" alt="Typing SVG" />
 </p>
 
-
 ---
 
 - 🔭 Currently working on **Kasir Web App** & **Arduino Smart Sorter**
@@ -57,10 +56,10 @@
 
 ---
 
-### 🌍 GitHub Activity Globe
+### 🌍 GitHub Activity Globe (Animated Snake Globe)
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/graph.png?raw=true" />
+  <img src="https://github.com/rifki123-cell/rifki123-cell/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -84,7 +83,7 @@
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/@adty.zz">
+  <a href="https://instagram.com/adty.zz">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
