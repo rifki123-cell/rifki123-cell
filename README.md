@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=React+Dev+%7C+PHP+MySQL+Master+%7C+Arduino+Project+Maker;Love+Clean+UI%2C+Functional+UX+%26+Modular+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=React+Dev+%7C+PHP+MySQL+Master+%7C+Arduino+Project+Maker;Love+Clean+UI%2C+Functional+UX+%26+Modular+Code" alt="Typing SVG" />
 </p>
+
 
 ---
 
